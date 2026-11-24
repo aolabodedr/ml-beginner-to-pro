@@ -1,0 +1,11 @@
+# Core stack for weeks 1 to 22. Each week folder adds its own requirements.txt for extra libraries.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+scipy
+statsmodels
+xgboost
+lightgbm
